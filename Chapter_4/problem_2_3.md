@@ -6,6 +6,7 @@
 
 
 ```python
+# string.punctuation has all the punctuations 
 def reverseString(input):
         return input[::-1] # extended slice syntex 
 ```
