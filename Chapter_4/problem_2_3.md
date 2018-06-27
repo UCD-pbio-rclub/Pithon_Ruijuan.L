@@ -7,7 +7,7 @@
 
 ```python
 def reverseString(input):
-        return input[::-1]
+        return input[::-1] # extended slice syntex 
 ```
 
 
