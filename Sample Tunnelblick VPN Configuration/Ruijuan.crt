@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 17 (0x11)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=CA, L=Davis, O=UC Davis, OU=MaloofLab, CN=Whitney/name=MaloofLab/emailAddress=jtdavis@ucdavis.edu
+        Validity
+            Not Before: Jun 22 17:53:22 2018 GMT
+            Not After : Jun 19 17:53:22 2028 GMT
+        Subject: C=US, ST=CA, L=Davis, O=UC Davis, OU=MaloofLab, CN=Ruijuan/name=MaloofLab/emailAddress=rzlli@ucdavis.edu\n
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e6:97:32:4a:42:07:79:f4:a1:1e:6d:4d:55:e2:
+                    51:d8:d5:2e:13:d2:50:ca:ad:44:71:19:3b:1d:82:
+                    d0:28:1c:01:cc:b3:50:2a:98:1e:9a:e0:6c:39:0d:
+                    24:f8:ff:30:ba:aa:2d:64:88:a4:1b:fc:d5:ef:ab:
+                    37:a6:cc:d6:e3:9b:31:dc:2c:22:c6:fa:23:0b:44:
+                    1e:0a:c6:b7:f2:53:9f:33:5d:5f:a2:ca:46:40:33:
+                    cb:66:84:cc:de:9a:a0:b1:c7:b7:6d:25:82:15:11:
+                    43:2d:b3:ec:c3:47:6c:3a:3c:0c:04:11:27:b8:40:
+                    e1:38:86:00:52:54:e9:98:37:f8:08:b7:1f:8f:7f:
+                    85:43:11:ea:79:2a:07:eb:9e:2e:40:f2:e9:04:6b:
+                    b7:95:81:27:b4:87:2d:82:43:98:4b:a6:aa:bd:e0:
+                    5d:d5:d4:da:79:f4:c9:c5:6d:62:b3:27:9f:5d:61:
+                    9c:fb:05:13:c7:95:dd:a4:47:f2:3c:bf:ef:a1:8e:
+                    64:7f:a4:c8:d8:93:b8:dd:7c:1e:31:76:a8:9a:e8:
+                    24:c5:c0:a2:09:e4:94:77:26:55:8d:2f:e4:ff:20:
+                    57:cc:63:0d:41:7f:b5:bc:ba:a8:9c:e1:56:9b:e3:
+                    58:60:0f:ba:ed:2c:2d:40:01:48:4f:22:d5:d9:1a:
+                    33:31
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                A9:0D:C6:A9:E6:A9:5A:6B:E3:78:F7:F2:10:DC:E4:EF:96:11:63:6E
+            X509v3 Authority Key Identifier: 
+                keyid:69:EB:5A:11:B7:7B:18:07:9E:AE:B2:35:7A:3A:EA:88:A6:1D:72:A4
+                DirName:/C=US/ST=CA/L=Davis/O=UC Davis/OU=MaloofLab/CN=Whitney/name=MaloofLab/emailAddress=jtdavis@ucdavis.edu
+                serial:99:8B:50:CB:E4:C1:13:44
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:Ruijuan
+    Signature Algorithm: sha256WithRSAEncryption
+         7c:03:e8:58:3b:38:50:10:41:a5:58:b4:38:3e:8f:28:ab:9c:
+         34:67:a3:36:e5:08:55:2c:cc:68:a5:0f:06:20:ae:7f:25:22:
+         c3:6f:5e:9e:9e:f5:7d:c9:cc:eb:b6:5c:97:f4:2c:6b:d1:20:
+         e7:0b:82:98:69:82:78:a5:15:61:f3:c3:1a:13:01:cc:12:b3:
+         01:ce:43:c7:74:98:45:25:ff:ef:15:bb:13:7f:fd:71:07:bb:
+         fc:6b:ec:95:b1:ab:eb:49:e4:33:59:be:9a:94:79:38:b3:90:
+         5c:ce:a9:1d:53:3c:48:a7:19:e5:8d:ab:9b:e4:6f:28:d0:28:
+         23:63:ca:f4:6d:3f:4a:81:20:a1:e2:26:25:d1:ae:6a:e0:a8:
+         92:c5:ac:c9:6a:4d:86:65:9e:d6:3e:eb:2a:e2:07:4a:f9:25:
+         30:d3:95:1b:5d:43:01:01:30:88:17:02:dc:f9:2f:5a:4b:75:
+         ca:85:d4:6f:bf:8a:14:b2:a2:4d:01:6b:a6:82:cf:97:0e:3b:
+         0f:8a:5a:b0:c8:de:da:13:1f:24:29:ad:9b:c6:a6:bd:8e:c9:
+         86:a0:2a:0c:1c:6c:0b:47:3b:21:79:3b:d9:f6:c4:35:52:de:
+         0b:39:fe:78:17:d3:8d:16:36:8c:31:3e:80:f6:f6:86:34:88:
+         06:64:4d:a5
+-----BEGIN CERTIFICATE-----
+MIIFGzCCBAOgAwIBAgIBETANBgkqhkiG9w0BAQsFADCBmzELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAkNBMQ4wDAYDVQQHEwVEYXZpczERMA8GA1UEChMIVUMgRGF2aXMx
+EjAQBgNVBAsTCU1hbG9vZkxhYjEQMA4GA1UEAxMHV2hpdG5leTESMBAGA1UEKRMJ
+TWFsb29mTGFiMSIwIAYJKoZIhvcNAQkBFhNqdGRhdmlzQHVjZGF2aXMuZWR1MB4X
+DTE4MDYyMjE3NTMyMloXDTI4MDYxOTE3NTMyMlowgZsxCzAJBgNVBAYTAlVTMQsw
+CQYDVQQIEwJDQTEOMAwGA1UEBxMFRGF2aXMxETAPBgNVBAoTCFVDIERhdmlzMRIw
+EAYDVQQLEwlNYWxvb2ZMYWIxEDAOBgNVBAMTB1J1aWp1YW4xEjAQBgNVBCkTCU1h
+bG9vZkxhYjEiMCAGCSqGSIb3DQEJARYTcnpsbGlAdWNkYXZpcy5lZHVcbjCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOaXMkpCB3n0oR5tTVXiUdjVLhPS
+UMqtRHEZOx2C0CgcAcyzUCqYHprgbDkNJPj/MLqqLWSIpBv81e+rN6bM1uObMdws
+Isb6IwtEHgrGt/JTnzNdX6LKRkAzy2aEzN6aoLHHt20lghURQy2z7MNHbDo8DAQR
+J7hA4TiGAFJU6Zg3+Ai3H49/hUMR6nkqB+ueLkDy6QRrt5WBJ7SHLYJDmEumqr3g
+XdXU2nn0ycVtYrMnn11hnPsFE8eV3aRH8jy/76GOZH+kyNiTuN18HjF2qJroJMXA
+ognklHcmVY0v5P8gV8xjDUF/tby6qJzhVpvjWGAPuu0sLUABSE8i1dkaMzECAwEA
+AaOCAWYwggFiMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdl
+bmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUqQ3GqeapWmvjePfyENzk75YR
+Y24wgdAGA1UdIwSByDCBxYAUaetaEbd7GAeerrI1ejrqiKYdcqShgaGkgZ4wgZsx
+CzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEOMAwGA1UEBxMFRGF2aXMxETAPBgNV
+BAoTCFVDIERhdmlzMRIwEAYDVQQLEwlNYWxvb2ZMYWIxEDAOBgNVBAMTB1doaXRu
+ZXkxEjAQBgNVBCkTCU1hbG9vZkxhYjEiMCAGCSqGSIb3DQEJARYTanRkYXZpc0B1
+Y2RhdmlzLmVkdYIJAJmLUMvkwRNEMBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsGA1Ud
+DwQEAwIHgDASBgNVHREECzAJggdSdWlqdWFuMA0GCSqGSIb3DQEBCwUAA4IBAQB8
+A+hYOzhQEEGlWLQ4Po8oq5w0Z6M25QhVLMxopQ8GIK5/JSLDb16envV9yczrtlyX
+9Cxr0SDnC4KYaYJ4pRVh88MaEwHMErMBzkPHdJhFJf/vFbsTf/1xB7v8a+yVsavr
+SeQzWb6alHk4s5BczqkdUzxIpxnljaub5G8o0CgjY8r0bT9KgSCh4iYl0a5q4KiS
+xazJak2GZZ7WPusq4gdK+SUw05UbXUMBATCIFwLc+S9aS3XKhdRvv4oUsqJNAWum
+gs+XDjsPilqwyN7aEx8kKa2bxqa9jsmGoCoMHGwLRzsheTvZ9sQ1Ut4LOf54F9ON
+FjaMMT6A9vaGNIgGZE2l
+-----END CERTIFICATE-----
